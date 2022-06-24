@@ -527,9 +527,12 @@ li {
 }
 
 .Interst  .container .big-box  h6 a {
-  color:var(--second-color); 
+  color:var(--second-color);
 }
 
+.bth {
+ margin-left:390px;
+}
 /* 1 Interesting */
 
 /* 0 footer */
